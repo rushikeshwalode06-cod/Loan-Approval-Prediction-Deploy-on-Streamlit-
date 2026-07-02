@@ -1,6 +1,6 @@
-# Loan-Approval-Prediction-Deploy-on-Streamlit-
+# Loan Approval Prediction Deploy on Streamlit Using Logistic Regression 
 
-# Loan Approval Prediction using Logistic Regression
+
 
 ## 📌 Project Overview
 
@@ -53,50 +53,6 @@ The model predicts one of the following outcomes:
 
 ---
 
-## 📂 Project Structure
-
-```
-Loan-Approval-Prediction/
-│
-├── app.py                 # Streamlit application
-├── loan.pkl               # Trained Logistic Regression model
-├── requirements.txt       # Required dependencies
-├── README.md              # Project documentation
-└── dataset.csv            # Dataset (if included)
-```
-
----
-
-## ▶️ How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone <repository-link>
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd Loan-Approval-Prediction
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Streamlit application
-
-```bash
-streamlit run app.py
-```
-
-The application will open in your default web browser.
-
----
-
 ## 🧠 Machine Learning Model
 
 **Algorithm Used:** Logistic Regression
@@ -105,6 +61,8 @@ Logistic Regression is a supervised machine learning algorithm widely used for b
 
 * Loan Approved ✅
 * Loan Rejected ❌
+
+  ![ml](https://github.com/rushikeshwalode06-cod/Loan-Approval-Prediction-Deploy-on-Streamlit-/blob/main/Loan%20ss.jpg?raw=true)
 
 ---
 
@@ -134,4 +92,4 @@ This project demonstrates the practical application of **Machine Learning** in a
 
 ---
 
-![ml]()
+
