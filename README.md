@@ -89,6 +89,6 @@ Logistic Regression is a supervised machine learning algorithm widely used for b
 
 This project demonstrates the practical application of **Machine Learning** in automating the loan approval process. Using **Logistic Regression**, the system analyzes applicant information and predicts whether a loan is likely to be approved or rejected. The Streamlit deployment makes the model easy to use, providing a simple and efficient interface for real-time predictions.
 
-
+![ml](https://github.com/rushikeshwalode06-cod/Loan-Approval-Prediction-Deploy-on-Streamlit-/blob/main/L.png?raw=true)
 
 
